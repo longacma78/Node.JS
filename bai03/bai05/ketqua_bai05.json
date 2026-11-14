@@ -1,0 +1,45 @@
+{
+  "capNhat": {
+    "masv": "SV004",
+    "hoten": "Phạm Thảo Vy",
+    "diemCu": 6,
+    "diemMoi": 8.6
+  },
+  "danhSachDiemLonHonBang7": [
+    {
+      "_id": "6af80a880de6284a9becce67",
+      "masv": "SV001",
+      "hoten": "Nguyễn Thành Long",
+      "tuoi": 20,
+      "diem": 9.2
+    },
+    {
+      "_id": "6af80a880de6284a9becce6b",
+      "masv": "SV005",
+      "hoten": "Hoàng Quốc Bảo",
+      "tuoi": 19,
+      "diem": 8.8
+    },
+    {
+      "_id": "6af80a880de6284a9becce6a",
+      "masv": "SV004",
+      "hoten": "Phạm Thảo Vy",
+      "tuoi": 22,
+      "diem": 8.6
+    },
+    {
+      "_id": "6af80a880de6284a9becce68",
+      "masv": "SV002",
+      "hoten": "Trần Minh Anh",
+      "tuoi": 21,
+      "diem": 8.5
+    },
+    {
+      "_id": "6af80a880de6284a9becce69",
+      "masv": "SV003",
+      "hoten": "Lê Hoàng Nam",
+      "tuoi": 20,
+      "diem": 7.4
+    }
+  ]
+}
