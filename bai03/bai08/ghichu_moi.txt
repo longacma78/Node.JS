@@ -1,0 +1,3 @@
+Dòng 1: Thực hành Node.js - Module File System (fs).
+Dòng 2: Tạo thư mục, tạo tập tin và ghi nội dung.
+Dòng 3: Đổi tên, đọc nội dung và xóa tập tin tạm.
