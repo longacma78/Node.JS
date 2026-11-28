@@ -77,7 +77,8 @@ npm install express pug body-parser
 - **Kiểm tra trên trình duyệt:** Truy cập `http://localhost:3000/`
 - **Kết quả:** Trình duyệt hiển thị dòng chữ `Hello, Express!`, Terminal thông báo server đang chạy tại `http://localhost:3000`.
 
-![Kết quả Ví dụ 1 - Hello Express](images/Screenshot%202026-11-28%20150938.png)
+![Kết quả Ví dụ 1 - Hello Express](<img width="752" height="556" alt="Screenshot 2026-11-28 150938" src="https://github.com/user-attachments/assets/54e18e83-bcb2-4b3f-a4a7-d31c3c0240ba" />
+)
 
 ---
 
@@ -92,15 +93,18 @@ npm install express pug body-parser
 
 1. **Đường dẫn `/` (`http://localhost:3000/`):** Hiển thị `Trang chủ`.
 
-   ![Kết quả Ví dụ 2 - Trang chủ](images/Screenshot%202026-11-28%20151015.png)
+   ![Kết quả Ví dụ 2 - Trang chủ](<img width="693" height="538" alt="Screenshot 2026-11-28 151015" src="https://github.com/user-attachments/assets/ac8cb345-298d-4ae8-804e-dda05d88adb8" />
+)
 
 2. **Đường dẫn `/about` (`http://localhost:3000/about`):** Hiển thị `Trang giới thiệu`.
 
-   ![Kết quả Ví dụ 2 - Trang giới thiệu](images/Screenshot%202026-11-28%20151115.png)
+   ![Kết quả Ví dụ 2 - Trang giới thiệu](<img width="724" height="545" alt="Screenshot 2026-11-28 151115" src="https://github.com/user-attachments/assets/0d9c4be6-6406-4e2c-84e7-6661a1b12b9c" />
+)
 
 3. **Đường dẫn `/users?name=Minh` (`http://localhost:3000/users?name=Minh`):** Đọc query parameter `name` và hiển thị `Xin chào, Minh`.
 
-   ![Kết quả Ví dụ 2 - Route Users với Query Parameter](images/Screenshot%202026-11-28%20151134.png)
+   ![Kết quả Ví dụ 2 - Route Users với Query Parameter](<img width="708" height="534" alt="Screenshot 2026-11-28 151134" src="https://github.com/user-attachments/assets/cd23a538-b051-452d-b932-210d51e53eab" />
+)
 
 ---
 
@@ -114,7 +118,8 @@ npm install express pug body-parser
 - **Kiểm tra trên trình duyệt:** Truy cập `http://localhost:3000/`
 - **Kết quả:** Trình duyệt hiển thị `Chào mừng đến với ứng dụng Express!`, đồng thời cửa sổ Terminal tự động ghi log dòng `Yêu cầu đến địa chỉ: /`.
 
-![Kết quả Ví dụ 3 - Middleware](images/Screenshot%202026-11-28%20151210.png)
+![Kết quả Ví dụ 3 - Middleware](<img width="706" height="575" alt="Screenshot 2026-11-28 151210" src="https://github.com/user-attachments/assets/21c35ef5-8db6-4ccf-9115-448f4220c75e" />
+)
 
 ---
 
@@ -128,7 +133,8 @@ npm install express pug body-parser
 - **Kiểm tra trên trình duyệt:** Truy cập `http://localhost:3000/`
 - **Kết quả:** Trình duyệt hiển thị tiêu đề `<h1>` với nội dung `Hello, John Doe!`.
 
-![Kết quả Ví dụ 4 - Template Engine Pug](images/Screenshot%202026-11-28%20151242.png)
+![Kết quả Ví dụ 4 - Template Engine Pug](<img width="736" height="552" alt="Screenshot 2026-11-28 151242" src="https://github.com/user-attachments/assets/88b0cab0-a408-426e-bc0e-2cea4d71d7a6" />
+)
 
 ---
 
@@ -142,7 +148,8 @@ npm install express pug body-parser
 - **Kiểm tra trên trình duyệt:** Truy cập `http://localhost:3000/`
 - **Kết quả:** Trình duyệt hiển thị biểu mẫu nhập `Dividend`, `Divisor` và nút `Submit` để thực hiện phép chia và kiểm tra xử lý lỗi đầu vào.
 
-![Kết quả Ví dụ 5 - Error Handling](images/Screenshot%202026-11-28%20151318.png)
+![Kết quả Ví dụ 5 - Error Handling](<img width="744" height="597" alt="Screenshot 2026-11-28 151318" src="https://github.com/user-attachments/assets/9d781068-dd12-40a4-9eae-e2fa80e9234a" />
+)
 
 ---
 
@@ -161,7 +168,8 @@ npm install express pug body-parser
 - **Kiểm tra trên trình duyệt:** Truy cập `http://localhost:3000/calculator`
 - **Kết quả cuối cùng:** Hiển thị giao diện ứng dụng **Calculator** hoàn chỉnh với CSS được định dạng gọn gàng, sẵn sàng thực hiện các phép tính cộng, trừ, nhân, chia.
 
-![Kết quả Ví dụ 6 - Ứng dụng Calculator MVC](images/Screenshot%202026-11-28%20155429.png)
+![Kết quả Ví dụ 6 - Ứng dụng Calculator MVC](<img width="738" height="599" alt="Screenshot 2026-11-28 155429" src="https://github.com/user-attachments/assets/46e78b22-fd3f-4811-b06b-59252382a9ef" />
+)
 
 ---
 
