@@ -171,14 +171,3 @@ npm install express pug body-parser
 ![Kết quả Ví dụ 6 - Ứng dụng Calculator MVC](<img width="738" height="599" alt="Screenshot 2026-11-28 155429" src="https://github.com/user-attachments/assets/46e78b22-fd3f-4811-b06b-59252382a9ef" />
 )
 
----
-
-## 4. Đưa mã nguồn lên GitHub
-
-Từ thư mục gốc của repository, thực hiện các lệnh sau để đẩy toàn bộ bài làm lên GitHub:
-
-```powershell
-git add .
-git commit -m "Hoan thanh Bai 4 - Express Framework"
-git push
-```
