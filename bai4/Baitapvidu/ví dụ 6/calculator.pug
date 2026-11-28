@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title Calculator App
+    link(rel="stylesheet" href="/styles.css")
+  body
+    h1 Calculator
+    form(action="/calculator/calculate" method="post")
+      label(for="num1") Enter number 1:
+      input(type="number" name="num1" required)
+      br
+      label(for="num2") Enter number 2:
+      input(type="number" name="num2" required)
+      br
+      label(for="operation") Select operation:
+      select(name="operation" required)
+        option(value="add") Add
+        option(value="subtract") Subtract
+        option(value="multiply") Multiply
+        option(value="divide") Divide
+      br
+      input(type="submit" value="Calculate")
+    if result !== undefined
+      h2 Result: #{result}
